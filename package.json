@@ -1,0 +1,24 @@
+{
+  "name": "cpf-validation",
+  "version": "1.0.0",
+  "description": "A simple CPF validation in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciomsdev/simple-cpf-validation-js.git"
+  },
+  "keywords": [
+    "cpf",
+    "validation",
+    "js"
+  ],
+  "author": "Fabricio Magalhães Sena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabriciomsdev/simple-cpf-validation-js/issues"
+  },
+  "homepage": "https://github.com/fabriciomsdev/simple-cpf-validation-js#readme"
+}

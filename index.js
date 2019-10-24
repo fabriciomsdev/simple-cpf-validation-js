@@ -22,7 +22,7 @@ export const validateCPF = cpf => {
     const getRevFromDigitPosition = (digitPosition) => {
         var add = 0;
 
-        for (i = 0; i < digitPosition; i++) {
+        for (var i = 0; i < digitPosition; i++) {
             add += parseInt(cpf.charAt(i)) * ((digitPosition + 1) - i);
         }
 
